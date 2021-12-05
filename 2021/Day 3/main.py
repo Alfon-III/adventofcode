@@ -12,3 +12,6 @@ for n in range(12):
     aux = aux + statistics.mode(letters_list)
     print(aux)
 
+#Aux devuelve el código en decimal.
+#Traducir con la calculadora de programador de windows
+#Repetir el proceso con el binario en NOT
